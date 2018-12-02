@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OctoDroid</string>
+    <string name="repo_not_found_toast">Le dépot n\'a pas été trouvé</string>
+    <string name="loading_msg">Chargement...</string>
+    <string name="saving_msg">Sauvegarde...</string>
+    <string name="deleting_msg">Suppression...</string>
+    <string name="closing_msg">Fermeture...</string>
+    <string name="opening_msg">Ouverture ...</string>
+    <string name="search">Chercher</string>
+    <string name="search_code">Chercher du code</string>
+    <string name="logout">Déconnexion</string>
+    <string name="login">Connexion</string>
+    <string name="credentials_username">Nom d\'utilisateur</string>
+    <string name="credentials_password">Mot de passe</string>
+    <string name="credentials_error_empty">Ce champ ne peut pas être vide</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="settings">Paramètres</string>
+    <string name="about">A propos</string>
+    <string name="introduction">Pour pouvoir utiliser l\'application à son plein potentiel, connectez-vous à GitHub à l\'aide de l\'un des boutons ci-dessous. Alternativement, vous pouvez explorer certaines parties de GitHub en utilisant le menu déroulant sur la gauche.</string>
+    <string name="my_profile">Mon profil</string>
+</resources>
